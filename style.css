@@ -1,0 +1,21 @@
+body {
+    background-color: #cdcdcd;
+    margin: auto 0;
+}
+h1 {
+    font-size: 3.8rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #ff4500;
+}
+.image img {
+    height: 80vh;
+    margin: auto;
+    display: block;
+}
+p{
+   font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #ff4500;
+    font-size: 2rem;
+}
